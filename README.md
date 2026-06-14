@@ -1,4 +1,4 @@
-# DGNO: Discontinuous Galerkin Neural Operator for Pathology Defocus Deblurring
+# [DGNO: Discontinuous Galerkin Neural Operator for Pathology Defocus Deblurring](https://arxiv.org/abs/2605.23282)
 
 Shaoqing Duan, Haofei Song, [Xintian Mao](https://scholar.google.es/citations?user=eM5Ogs8AAAAJ&hl=en),
 Qingli Li, [Yan Wang](https://scholar.google.com/citations?user=5a1Cmk0AAAAJ&hl=en)
