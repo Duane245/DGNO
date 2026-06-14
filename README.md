@@ -172,9 +172,16 @@ This codebase is built on [BasicSR](https://github.com/XPixelGroup/BasicSR) and
 ## Citation
 
 ```bibtex
-@inproceedings{dgno2026,
-  title     = {Discontinuous Galerkin Neural Operator for Pathology Defocus Deblurring},
-  booktitle = {International Conference on Machine Learning (ICML)},
-  year      = {2026}
+@inproceedings{duan2026dgno,
+  title         = {Discontinuous Galerkin Neural Operator for Pathology Defocus Deblurring},
+  author        = {Duan, Shaoqing and Song, Haofei and Mao, Xintian and Li, Qingli and Wang, Yan},
+  booktitle     = {International Conference on Machine Learning (ICML)},
+  year          = {2026},
+  eprint        = {2605.23282},
+  archivePrefix = {arXiv},
+  primaryClass  = {eess.IV},
+  url           = {https://arxiv.org/abs/2605.23282}
 }
 ```
+
+Preprint: [arXiv:2605.23282](https://arxiv.org/abs/2605.23282).
