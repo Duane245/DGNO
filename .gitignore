@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# Experiment outputs
+experiments/
+tb_logger/
+logs/
+results/
+results_*/
+
+# Model weights (hosted on Hugging Face: Duane245/DGNO)
+*.pth
+*.pt
+*.ckpt
+
+# Datasets
+datasets/
+
+# Editors / OS
+.DS_Store
+.idea/
+.vscode/
